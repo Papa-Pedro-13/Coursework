@@ -375,12 +375,12 @@ void PaintBonuses(int bonus_falling, int* bonus_status, int* whichbonus, int bon
     }
 }
 
-void PaintBricks(int brick_w, int brick_h, int(*brick_status)[SIZE], int(*brick_pos_x)[SIZE], int(*brick_pos_y)[SIZE], int(*brick_health)[SIZE], int space, int raws, int col) {
+void PaintBricks(int brick_w, int brick_h, int(*brick_status)[SIZE], int(*brick_pos_x)[SIZE], int(*brick_pos_y)[SIZE], int(*brick_health)[SIZE], int space, int rows, int col) {
     glBegin(GL_QUADS);
     int lastx = 0, lasty = 0;
     int x1 = 0, y1 = 0, x2 = x1 + brick_w, y2 = y1, x3 = x2, y3 = y2 + brick_h, x4 = x3 - brick_w, y4 = y3;
 
-    for (int i = 1; i <= raws; i++) {
+    for (int i = 1; i <= rows; i++) {
         for (int j = 1; j <= col; j++) {
 
             // œÓ‚ÂˇÏ ÊË‚ ÎË ÍËÔË˜
@@ -429,10 +429,10 @@ void CreateScoreFile(int level_count) {
     FILE* fcheck = fopen("score.txt", "r");
     if (fcheck == NULL) {
         FILE* fstart = fopen("score.txt", "w");
-        for (int i = 0; i < level_count; i++) {
+        for (int i = 0; i < level_count; i++)
             printf("0\n");
-        }
         fclose(fstart);
+        return;
     }
     fclose(fcheck);
 }
