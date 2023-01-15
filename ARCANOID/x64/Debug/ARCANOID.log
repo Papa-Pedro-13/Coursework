@@ -1,434 +1,435 @@
 ﻿  main.c
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,86): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,106): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,134): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,154): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,182): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,189): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,217): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,237): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,256): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,272): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,300): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(15,316): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,41): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,60): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,76): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,95): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,102): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,130): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,137): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,165): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,172): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,200): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(17,220): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,71): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,90): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,97): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,125): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,132): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,160): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,167): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,195): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,207): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,226): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,250): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,278): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,302): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,330): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,354): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,382): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(19,407): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,86): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,93): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,121): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,128): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,147): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,167): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,195): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,215): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,243): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,254): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,282): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(21,298): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,32): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,51): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,86): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,93): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,121): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,128): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,156): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,163): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,191): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(23,207): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,71): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,90): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,97): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,125): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,132): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,160): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,167): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,195): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,219): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,247): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,271): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,290): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(25,314): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(27,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(27,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(27,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(27,63): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,71): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,90): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,97): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,125): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,132): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,151): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,175): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,203): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,227): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,255): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,279): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,307): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(30,323): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(35,51): warning C4305: +=: усечение из "double" в "float"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(36,38): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(36,63): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(46,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(46,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(47,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(47,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(50,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(50,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(51,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(51,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(54,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(54,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(55,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(55,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(58,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(58,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(59,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(59,54): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(62,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(62,54): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(63,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(63,50): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(66,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(66,50): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(67,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(67,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(70,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(70,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(71,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(71,50): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(74,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(74,58): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(75,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(75,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(87,26): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(88,35): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(89,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(89,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(90,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(90,30): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(94,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(94,32): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(95,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(95,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(96,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(96,37): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(97,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(97,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,34): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,56): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,88): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,110): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,142): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,164): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,200): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,223): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,255): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,277): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,314): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(110,349): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,34): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,75): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,84): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,116): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,125): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,162): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,185): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,217): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,226): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,263): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(112,286): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(121,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(121,63): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(122,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(122,73): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(123,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(123,73): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(124,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(124,63): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(133,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(133,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(134,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(134,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(135,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(135,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(136,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(136,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(137,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(137,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(138,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(138,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(140,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(140,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(141,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(141,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(142,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(142,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(143,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(143,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(144,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(144,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(145,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(145,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(161,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(161,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(162,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(162,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(163,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(163,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(164,35): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(164,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(165,35): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(165,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(166,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(166,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(167,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(167,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(168,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(168,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(171,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(171,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(172,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(172,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(173,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(173,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(174,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(174,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(175,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(175,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(176,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(176,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(177,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(177,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(178,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(178,51): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(181,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(181,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(182,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(182,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(183,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(183,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(184,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(184,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(186,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(186,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(187,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(187,48): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(188,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(188,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(189,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(189,59): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(194,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(194,38): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(195,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(195,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(198,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(198,38): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(199,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(199,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(202,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(202,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(203,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(203,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(206,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(206,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(207,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(207,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(211,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(211,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(212,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(212,60): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(215,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(215,60): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(216,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(216,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(219,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(219,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(220,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(220,60): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(223,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(223,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(224,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(224,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(261,51): warning C4305: +=: усечение из "double" в "float"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(262,46): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(262,74): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(291,27): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(291,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(292,27): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(292,56): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(293,46): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(293,75): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(294,46): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(294,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(304,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(304,42): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(305,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(305,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(308,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(308,42): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(309,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(309,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(312,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(312,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(313,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(313,57): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(316,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(316,57): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(317,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(317,68): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(320,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(320,68): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(321,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(321,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(324,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(324,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(325,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(325,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(328,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(328,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(329,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(329,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(332,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(332,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(333,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(333,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(284,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(286,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(347,55): warning C4305: +=: усечение из "double" в "float"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(348,52): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(348,82): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(363,30): warning C4305: функция: усечение из "double" в "GLfloat"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(363,35): warning C4305: функция: усечение из "double" в "GLfloat"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(367,30): warning C4305: функция: усечение из "double" в "GLfloat"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(367,35): warning C4305: функция: усечение из "double" в "GLfloat"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(370,58): warning C4305: +=: усечение из "double" в "float"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(371,57): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(371,88): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(405,38): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(405,50): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(408,30): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(408,34): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(409,30): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(409,34): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(410,30): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\funcs.h(410,34): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(17,25): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(65,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(81,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,71): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,116): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,161): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,206): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,251): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,296): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,341): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,386): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,433): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,482): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(123,530): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(128,137): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(128,206): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(132,126): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(132,192): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(152,86): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(153,80): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(189,66): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(190,66): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(242,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(243,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(245,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(289,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(290,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(292,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(315,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(316,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(318,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(354,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(355,49): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(357,53): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(369,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(381,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(391,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(401,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(413,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(427,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(439,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(440,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(655,113): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(656,113): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(680,30): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(681,30): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(739,71): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(460,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(501,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(502,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(503,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(504,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(785,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(792,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(811,16): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(811,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(811,32): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(811,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(825,55): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(825,64): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(838,24): warning C4305: функция: усечение из "double" в "GLfloat"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(856,28): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(856,37): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(876,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(881,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(893,27): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(929,33): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(int)"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(943,26): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(944,32): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(int)"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(947,35): warning C4113: "void (__cdecl *)(int)" отличается в списках параметров от "void (__cdecl *)(unsigned char,int,int)"
-C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\ARCANOID\main.c(948,35): warning C4113: "void (__cdecl *)(int)" отличается в списках параметров от "void (__cdecl *)(int,int,int)"
-  ARCANOID.vcxproj -> C:\Users\Александр\Downloads\ARCANOID dlya sanecheka\ARCANOID\x64\Debug\ARCANOID.exe
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,86): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,106): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,134): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,154): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,182): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,189): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,217): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,237): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,256): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,272): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,300): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(15,316): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,41): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,60): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,76): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,95): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,102): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,130): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,137): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,165): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,172): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,200): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(17,220): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,71): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,90): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,97): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,125): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,132): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,160): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,167): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,195): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,207): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,226): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,250): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,278): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,302): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,330): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,354): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,382): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(19,407): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,86): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,93): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,121): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,128): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,147): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,167): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,195): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,215): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,243): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,254): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,282): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(21,298): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,32): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,51): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,86): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,93): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,121): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,128): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,156): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,163): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,191): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(23,207): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,71): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,90): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,97): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,125): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,132): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,160): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,167): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,195): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,219): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,247): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,271): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,290): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(25,314): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(27,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(27,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(27,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(27,63): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,47): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,71): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,90): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,97): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,125): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,132): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,151): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,175): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,203): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,227): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,255): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,279): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,307): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(30,323): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(35,51): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(36,38): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(36,63): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(46,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(46,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(47,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(47,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(50,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(50,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(51,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(51,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(54,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(54,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(55,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(55,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(58,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(58,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(59,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(59,54): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(62,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(62,54): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(63,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(63,50): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(66,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(66,50): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(67,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(67,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(70,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(70,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(71,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(71,50): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(74,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(74,58): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(75,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(75,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(87,26): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(88,35): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(89,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(89,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(90,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(90,30): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(94,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(94,32): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(95,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(95,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(96,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(96,37): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(97,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(97,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,34): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,56): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,88): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,110): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,142): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,164): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,200): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,223): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,255): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,277): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,314): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(110,349): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,34): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,75): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,84): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,116): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,125): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,162): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,185): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,217): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,226): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,263): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(112,286): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(121,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(121,63): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(122,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(122,73): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(123,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(123,73): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(124,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(124,63): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(133,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(133,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(134,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(134,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(135,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(135,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(136,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(136,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(137,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(137,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(138,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(138,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(140,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(140,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(141,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(141,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(142,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(142,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(143,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(143,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(144,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(144,52): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(145,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(145,67): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(161,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(161,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(162,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(162,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(163,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(163,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(164,35): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(164,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(165,35): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(165,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(166,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(166,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(167,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(167,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(168,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(168,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(171,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(171,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(172,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(172,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(173,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(173,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(174,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(174,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(175,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(175,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(176,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(176,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(177,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(177,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(178,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(178,51): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(181,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(181,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(182,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(182,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(183,31): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(183,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(184,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(184,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(186,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(186,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(187,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(187,48): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(188,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(188,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(189,20): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(189,59): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(194,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(194,38): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(195,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(195,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(198,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(198,38): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(199,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(199,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(202,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(202,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(203,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(203,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(206,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(206,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(207,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(207,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(211,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(211,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(212,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(212,60): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(215,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(215,60): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(216,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(216,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(219,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(219,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(220,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(220,60): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(223,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(223,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(224,40): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(224,49): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(261,51): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(262,46): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(262,74): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(291,27): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(291,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(292,27): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(292,56): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(293,46): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(293,75): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(294,46): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(294,55): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(304,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(304,42): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(305,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(305,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(308,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(308,42): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(309,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(309,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(312,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(312,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(313,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(313,57): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(316,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(316,57): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(317,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(317,68): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(320,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(320,68): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(321,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(321,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(324,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(324,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(325,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(325,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(328,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(328,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(329,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(329,64): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(332,33): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(332,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(333,44): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(333,53): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(284,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(286,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(347,55): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(348,52): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(348,82): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(363,30): warning C4305: функция: усечение из "double" в "GLfloat"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(363,35): warning C4305: функция: усечение из "double" в "GLfloat"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(367,30): warning C4305: функция: усечение из "double" в "GLfloat"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(367,35): warning C4305: функция: усечение из "double" в "GLfloat"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(370,58): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(371,57): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(371,88): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(405,38): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(405,50): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(408,30): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(408,34): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(409,30): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(409,34): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(410,30): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\funcs.h(410,34): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(65,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(81,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,71): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,116): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,161): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,206): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,251): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,296): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,341): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,386): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,433): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,482): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(131,530): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(136,137): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(136,206): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(140,126): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(140,192): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(160,86): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(161,80): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(197,66): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(198,66): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(250,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(251,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(253,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(299,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(300,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(302,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(327,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(328,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(330,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(367,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(368,49): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(370,53): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(383,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(396,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(407,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(418,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(431,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(446,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(459,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(460,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(686,113): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(687,113): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(711,30): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(712,30): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(770,71): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(483,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(526,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(527,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(528,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(529,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(815,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(822,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(840,16): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(840,21): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(840,32): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(840,43): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(851,55): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(851,64): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(864,24): warning C4305: функция: усечение из "double" в "GLfloat"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(882,28): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(882,37): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(902,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(907,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(919,27): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(955,33): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(int)"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(969,26): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(970,32): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(int)"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(973,35): warning C4113: "void (__cdecl *)(int)" отличается в списках параметров от "void (__cdecl *)(unsigned char,int,int)"
+C:\Users\Александр\Desktop\Coursework-main\ARCANOID\main.c(974,35): warning C4113: "void (__cdecl *)(int)" отличается в списках параметров от "void (__cdecl *)(int,int,int)"
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+  ARCANOID.vcxproj -> C:\Users\Александр\Desktop\Coursework-main\x64\Debug\ARCANOID.exe
   Скопировано файлов:         1.

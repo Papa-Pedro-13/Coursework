@@ -86,6 +86,10 @@ void printscore() {
 }
 
 void varnulls() {
+    /*
+        Машинно-независимая оптимизация
+        A[0] = A[1] = A[2] = A[3] = A[4] = A[5] = A[6] = 0;
+    */
     for (int i = 0; i < 7; i++) {
         balls_combo[i] = 0;
     }
@@ -93,11 +97,15 @@ void varnulls() {
     recordY = 0; isMaxRecord = 0; shouldcheck = 1;
     score[0] = '\n'; ratingstr[0] = '\n'; rating = 0;
     for (int i = 0; i < max_balls; i++) {
+        //Ассемблерная вставка
         if (i != 0) {
             balls[i] = 0;
         }
+       
         balls_x[i] = 0;
         balls_y[i] = 0;
+        //Машинно-зависимая оптимизация
+        // balls_x[i] = balls_x[i]<<16
         x_vels[i] = 0;
         y_vels[i] = 0;
 
@@ -401,7 +409,7 @@ void BallMove()
             }
 
         }
-        //не понял
+        //Запуск уровня со случайными блоками
         else if (ball_y - ball_r - 2 < levelbonusbrick_y) {
             level = 5;
             levelswitcher();
@@ -429,7 +437,7 @@ void BallMove()
                     break;
                 }
             }
-            //не понял
+            //Запуск уровня со случайными блоками(Скорее всего дублирование, которое можно убрать)
             else if (ball_y - ball_r - 2 < levelbonusbrick_y) {
                 level = 5;
                 levelswitcher();
