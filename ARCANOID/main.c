@@ -25,7 +25,7 @@ int x_velocity = 3, y_velocity = 3;
 int x_vels[7], y_vels[7];
 int startvels[7];
 // Balls
-int balls_count = 1, max_balls = 6;
+int balls_count = 1, max_balls = 5;
 int balls[7] = { 0 }, isLastBallConverted = 0;
 // Bricks
 float brick_w = 40, brick_h = 40;
