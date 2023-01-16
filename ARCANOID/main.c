@@ -81,8 +81,8 @@ void varnulls() {
      //Машинно-независимая оптимизация
     balls_combo[0] = balls_combo[1] = balls_combo[2] = balls_combo[3] = balls_combo[4] = balls_combo[5] = balls_combo[6] = 0;
     
-    for (int i = 0; i < 7; i++)
-        balls_combo[i] = 0;
+    /*for (int i = 0; i < 7; i++)
+        balls_combo[i] = 0;*/
     nextX = 0; RecBoxX = 0; RecBoxY = 445;
     recordY = 0; isMaxRecord = 0; shouldcheck = 1;
     score[0] = '\n'; ratingstr[0] = '\n'; rating = 0;
