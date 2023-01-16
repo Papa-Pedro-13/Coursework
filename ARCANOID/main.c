@@ -94,9 +94,10 @@ void varnulls() {
         balls_x[i] = 0;
         balls_y[i] = 0;
         //Машинно-зависимая оптимизация
-        // balls_x[i] = balls_x[i]<<16
-        x_vels[i] = 0;
-        y_vels[i] = 0;
+        x_vels[i] = x_vels[i] << 16;
+        y_vels[i] = y_vels[i] << 16;
+        //x_vels[i] = 0;
+        //y_vels[i] = 0;
     }
     ball_status = 0; balls_count = 1;
     d_hits_left = 10; d_w = 105; d_h = 6;
@@ -181,15 +182,22 @@ void levelswitcher() {
     case 5:
         rows = 5 + rand() % 5;
         min_row = rows;
-        for (int i = 1; i <= rows; i++)
-            for (int j = 1; j <= col; j++)
+        int* pBS, *pBH, *pBPX, *pBPY;
+        for (int i = 1; i <= rows; i++) {
+            //Машинно-зависимая оптимизация
+            pBS = &brick_status[i][0];
+            pBH = &brick_health[i][0];
+            pBPX = &brick_pos_x[i][0];
+            pBPY = &brick_pos_y[i][0];
+            for (int j=1; j <= col; pBS++, j++, pBH++, pBPX++, pBPY++)
                 if (rand() % 2 == 1) {
                     bricks_counter++;
-                    brick_status[i][j] = 1;
-                    brick_health[i][j] = 1 + rand() % 2;
-                    brick_pos_x[i][j] = j * space + (j - 3) * brick_w;
-                    brick_pos_y[i][j] = i * space + (i - 3) * brick_h;
+                    *pBS = 1;
+                    *pBH = 1 + rand() % 2;
+                    *pBPX = j * space + (j - 3) * brick_w;
+                    *pBPY = i * space + (i - 3) * brick_h;
                 }
+        }
     default: break;
     }
 }
