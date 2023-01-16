@@ -77,20 +77,19 @@ void printscore() {
 }
 
 void varnulls() {
-    /*
-        Машинно-независимая оптимизация
-        A[0] = A[1] = A[2] = A[3] = A[4] = A[5] = A[6] = 0;
-    */
-    for (int i = 0; i < 7; i++)
-        balls_combo[i] = 0;
+    
+     //Машинно-независимая оптимизация
+    balls_combo[0] = balls_combo[1] = balls_combo[2] = balls_combo[3] = balls_combo[4] = balls_combo[5] = balls_combo[6] = 0;
+    
+    /*for (int i = 0; i < 7; i++)
+        balls_combo[i] = 0;*/
     nextX = 0; RecBoxX = 0; RecBoxY = 445;
     recordY = 0; isMaxRecord = 0; shouldcheck = 1;
     score[0] = '\n'; ratingstr[0] = '\n'; rating = 0;
     for (int i = 0; i < max_balls; i++) {
-        //Ассемблерная вставка
+       
         if (i != 0)
             balls[i] = 0;
-       
         balls_x[i] = 0;
         balls_y[i] = 0;
         //Машинно-зависимая оптимизация
@@ -250,6 +249,7 @@ void ClickKeyboard(int key) {
         //ball_status = 0;
         balls[0] = 0;
         varnulls();
+        //
         balls_x[0] = d_x + d_w / 2;
         balls_y[0] = d_y - 8;
         startvels[0] = 0;
@@ -685,12 +685,14 @@ void movedeck() {
     }
     if (gamemenu == 1) {
         if (ball_status == 0) {
-            b_menu_x = d_x + d_w / 2;
+            //Машинно-независимая оптимизация( снижение мощности )
+            //b_menu_x = d_x + d_w / 2;
+            b_menu_x = d_x + (d_w >> 1);
             b_menu_y = d_y - ball_r / 2 - 8;
         }
     }
     else if (gamemenu == 2 && gameactive == 0) {
-        balls_x[0] = d_x + d_w / 2;
+        balls_x[0] = d_x + (d_w >> 1);
         balls_y[0] = d_y - ball_r / 2 - 8;
     }
 }
