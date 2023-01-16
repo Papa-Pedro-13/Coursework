@@ -230,9 +230,16 @@ void ClickKeyboard(int key) {
         saverecord(score, rating, lvlrecords, level);
         isLvlFinished = 0;
         gamemenu = 1;
-        gameactive = 0;
-        gamestarted = 0;
-        ball_status = 0;
+        // Ассемблерная вставка
+        _asm{
+            sub eax, eax;
+            mov gameactive, eax;
+            mov gamestarted, eax;
+            mov ball_status, eax;
+        }
+        //gameactive = 0;
+        //gamestarted = 0;
+        //ball_status = 0;
         balls[0] = 0;
         varnulls();
         balls_x[0] = d_x + d_w / 2;
