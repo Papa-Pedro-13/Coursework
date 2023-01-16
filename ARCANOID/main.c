@@ -185,10 +185,10 @@ void levelswitcher() {
         int* pBS, *pBH, *pBPX, *pBPY;
         for (int i = 1; i <= rows; i++) {
             //Машинно-зависимая оптимизация
-            pBS = &brick_status[i][0];
-            pBH = &brick_health[i][0];
-            pBPX = &brick_pos_x[i][0];
-            pBPY = &brick_pos_y[i][0];
+            pBS = &brick_status[i][1];
+            pBH = &brick_health[i][1];
+            pBPX = &brick_pos_x[i][1];
+            pBPY = &brick_pos_y[i][1];
             for (int j=1; j <= col; pBS++, j++, pBH++, pBPX++, pBPY++)
                 if (rand() % 2 == 1) {
                     bricks_counter++;
