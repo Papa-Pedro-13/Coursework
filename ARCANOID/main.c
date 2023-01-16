@@ -419,25 +419,52 @@ void BallMove() {
                 }
             }
 
+            int i = 0, k = 0;
             int temp = 0, isHit = 0;
             int rememberHittedCol = 0, rememberHittedRow = 0;
             int cur_brick_pos_x = 0, cur_brick_pos_y = 0;
             int x_l = ball_x - ball_r, x_r = ball_x + ball_r;
             int y_u = ball_y - ball_r, y_d = ball_y + ball_r;
-            //проход по всем блокам
-            if (ball_y < 600 - (13 - min_row) * 45) {
-                for (int i = 1; i <= rows; i++) {
-                    for (int k = 1; k <= col; k++) {
+
+            if (y_u <= min_row * 45) {
+                for (i = (int)((y_u - 1) / 45) + 1; i <= (int)((y_d - 1) / 45) + 1; i++) {
+                    for (k = (int)((x_l - 1) / 45) + 1; k <= (int)((x_r - 1) / 45) + 1; k++) {
                         if (brick_status[i][k] == 0) continue;
                         cur_brick_pos_x = brick_pos_x[i][k];
                         cur_brick_pos_y = brick_pos_y[i][k];
-                        if ((x_r > cur_brick_pos_x && x_r < cur_brick_pos_x + brick_w && x_vel > 0 || x_l < cur_brick_pos_x + brick_w && x_l > cur_brick_pos_x && x_vel < 0) && (y_d > cur_brick_pos_y && y_u < cur_brick_pos_y || y_u < cur_brick_pos_y + brick_h && y_d > cur_brick_pos_y + brick_h)) {
-                            y_vel *= -1;
-                            temp = 1;
+
+                        //if (ball_x >= cur_brick_pos_x && ball_x <= cur_brick_pos_x + brick_w + space && (y_d >= cur_brick_pos_y && y_u <= cur_brick_pos_y || y_u <= cur_brick_pos_y + brick_h && y_d >= cur_brick_pos_y + brick_h) && !(y_u > cur_brick_pos_y && y_d < cur_brick_pos_y + brick_h)) {
+                        //    y_vel *= -1;
+                        //    temp = 1;
+                        //}
+                        //else if (ball_y >= cur_brick_pos_y && ball_y <= cur_brick_pos_y + brick_h + space && (x_r >= cur_brick_pos_x && x_l <= cur_brick_pos_x || x_l <= cur_brick_pos_x + brick_w && x_r >= cur_brick_pos_x + brick_w) && !(x_l > cur_brick_pos_x && x_r < cur_brick_pos_x + brick_w)) {
+                        //    x_vel *= -1;
+                        //    temp = 1;
+                        //}
+
+                        if (y_u - 3 <= cur_brick_pos_y + brick_h && y_d + 3 > cur_brick_pos_y + brick_h && (x_l <= cur_brick_pos_x + brick_w || x_r >= cur_brick_pos_x || x_l - 3 <= cur_brick_pos_x + brick_w || x_r + 3 >= cur_brick_pos_x) && (x_l - 3 >= cur_brick_pos_x || x_r + 3 <= cur_brick_pos_x + brick_w) && brick_status[i + 1][k] == 0 && y_vel < 0) {
+                            if (x_r < cur_brick_pos_x + brick_w && x_r > cur_brick_pos_x || x_l < cur_brick_pos_x + brick_w && x_l > cur_brick_pos_x) {
+                                y_vel *= -1;
+                                temp = 1;
+                            }
                         }
-                        else if ((y_d > cur_brick_pos_y && y_d < cur_brick_pos_y + brick_h && y_vel > 0 || y_u < cur_brick_pos_y + brick_h && y_u > cur_brick_pos_y && y_vel < 0) && (x_r > cur_brick_pos_x && x_l < cur_brick_pos_x || x_l < cur_brick_pos_x + brick_w && x_r > cur_brick_pos_x + brick_w)) {
-                            x_vel *= -1;
-                            temp = 1;
+                        else if (y_d + 3 >= cur_brick_pos_y && y_u - 3 < cur_brick_pos_y && x_l - 3 <= cur_brick_pos_x + brick_w && x_r + 3 >= cur_brick_pos_x && (brick_status[i - 1][k] == 0 && y_vel > 0)) {
+                            if (x_l >= cur_brick_pos_x && x_l <= cur_brick_pos_x + brick_w || x_r <= cur_brick_pos_x + brick_w && x_r >= cur_brick_pos_x) {
+                                y_vel *= -1;
+                                temp = 1;
+                            }
+                        }
+                        else if (x_r + 3 >= cur_brick_pos_x && x_l - 3 < cur_brick_pos_x && brick_status[i][k - 1] == 0 && ball_x < cur_brick_pos_x) {
+                            if (y_u >= cur_brick_pos_y && y_u <= cur_brick_pos_y + brick_h || y_d <= cur_brick_pos_y + brick_h && y_d >= cur_brick_pos_y) {
+                                x_vel *= -1;
+                                temp = 1;
+                            }
+                        }
+                        else if (x_l - 3 <= cur_brick_pos_x + brick_w && x_r + 3 > cur_brick_pos_x + brick_w && brick_status[i][k + 1] == 0) {
+                            if (y_u >= cur_brick_pos_y && y_u <= cur_brick_pos_y + brick_h || y_d <= cur_brick_pos_y + brick_h && y_d >= cur_brick_pos_y) {
+                                x_vel *= -1;
+                                temp = 1;
+                            }
                         }
                         if (temp == 1) {
                             if (brick_health[i][k] == 1) {
@@ -446,33 +473,14 @@ void BallMove() {
                                 isHit = 1;
                             }
                             else if (brick_health[i][k] == 2) brick_health[i][k]--;
+                            rememberHittedRow = i;
                             rememberHittedCol = k;
                             break;
                         }
-                        //if (x_l >= cur_brick_pos_x && x_r <= cur_brick_pos_x + brick_w && (y_d<cur_brick_pos_y && y_u>cur_brick_pos_y || y_u<cur_brick_pos_y + brick_h && y_d>cur_brick_pos_y + brick_h)) {
-                        //    y_vel *= -1;
-                        //    temp = 1;
-                        //    if (brick_health[i][k] == 1) {
-                        //        brick_status[i][k] = 0;
-                        //        isHit = 1;
-                        //    }
-                        //    else if (brick_health[i][k] == 2) brick_health[i][k]--;
-                        //}
-                        //else if (y_u >= cur_brick_pos_y && y_d <= cur_brick_pos_y + brick_h && (x_r > cur_brick_pos_x && x_l < cur_brick_pos_x || x_l<cur_brick_pos_x + brick_w && x_r>cur_brick_pos_x + brick_w)) {
-                        //    x_vel *= -1;
-                        //    temp = 1;
-                        //    if (brick_health[i][k] == 1) {
-                        //        brick_status[i][k] = 0;
-                        //        isHit = 1;
-                        //    }
-                        //    else if (brick_health[i][k] == 2) brick_health[i][k]--;
-                        //}
                     }
                     if (temp == 1) {
                         balls_combo[v]++;
                         rating += balls_combo[v] * 10;
-
-                        rememberHittedRow = i;
                         //выбор бонуса
                         if (isHit == 1) {
                             int randombonus = 1 + rand() % 1000;
