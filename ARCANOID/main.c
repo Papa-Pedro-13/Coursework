@@ -77,17 +77,16 @@ void printscore() {
 }
 
 void varnulls() {
-    
-     //Машинно-независимая оптимизация
+
+    //Машинно-независимая оптимизация
     balls_combo[0] = balls_combo[1] = balls_combo[2] = balls_combo[3] = balls_combo[4] = balls_combo[5] = balls_combo[6] = 0;
-    
-    /*for (int i = 0; i < 7; i++)
-        balls_combo[i] = 0;*/
+    //for (int i = 0; i < 7; i++)
+    //    balls_combo[i] = 0;
     nextX = 0; RecBoxX = 0; RecBoxY = 445;
     recordY = 0; isMaxRecord = 0; shouldcheck = 1;
     score[0] = '\n'; ratingstr[0] = '\n'; rating = 0;
     for (int i = 0; i < max_balls; i++) {
-       
+
         if (i != 0)
             balls[i] = 0;
         balls_x[i] = 0;
@@ -102,26 +101,26 @@ void varnulls() {
     d_hits_left = 10; d_w = 105; d_h = 6;
     bonus_falling = 0;
     //Ассемблерная вставка
-    _asm{   
+    _asm {
         mov     eax, 1
         jmp     L2
-L3: 
-        mov     dword ptr bonus_status[eax*4],0
+        L3 :
+        mov     dword ptr bonus_status[eax * 4], 0
         mov     dword ptr bonus_x[eax * 4], 0
         mov     dword ptr bonus_y[eax * 4], 0
         mov     dword ptr whichbonus[eax * 4], 0
         inc     eax
-L2:
+        L2 :
         cmp     eax, 3
         jle     L3
     }
-    
-    /*for (int i = 1; i < 4; i++) {
-        bonus_status[i] = 0;
-        bonus_x[i] = 0;
-        bonus_y[i] = 0;
-        whichbonus[i] = 0;
-    }*/
+
+    //for (int i = 1; i < 4; i++) {
+    //    bonus_status[i] = 0;
+    //    bonus_x[i] = 0;
+    //    bonus_y[i] = 0;
+    //    whichbonus[i] = 0;
+    //}
 
     bricks_counter = 0;
     for (int i = 1; i <= rows; i++) {
@@ -196,14 +195,14 @@ void levelswitcher() {
     case 5:
         rows = 5 + rand() % 5;
         min_row = rows;
-        int* pBS, *pBH, *pBPX, *pBPY;
+        int* pBS, * pBH, * pBPX, * pBPY;
         for (int i = 1; i <= rows; i++) {
             //Машинно-зависимая оптимизация
             pBS = &brick_status[i][1];
             pBH = &brick_health[i][1];
             pBPX = &brick_pos_x[i][1];
             pBPY = &brick_pos_y[i][1];
-            for (int j=1; j <= col; pBS++, j++, pBH++, pBPX++, pBPY++)
+            for (int j = 1; j <= col; pBS++, j++, pBH++, pBPX++, pBPY++)
                 if (rand() % 2 == 1) {
                     bricks_counter++;
                     *pBS = 1;
@@ -211,6 +210,14 @@ void levelswitcher() {
                     *pBPX = j * space + (j - 3) * brick_w;
                     *pBPY = i * space + (i - 3) * brick_h;
                 }
+            //for (int j = 1; j <= col; j++)
+            //    if (rand() % 2 == 1) {
+            //        bricks_counter++;
+            //        brick_status[i][j] = 1;
+            //        brick_health[i][j] = 1 + rand() % 2;
+            //        brick_pos_x[i][j] = j * space + (j - 3) * brick_w;
+            //        brick_pos_y[i][j] = i * space + (i - 3) * brick_h;
+            //    }
         }
     default: break;
     }
@@ -252,8 +259,8 @@ void ClickKeyboard(int key) {
         saverecord(score, rating, lvlrecords, level);
         isLvlFinished = 0;
         gamemenu = 1;
-        // Ассемблерная вставка
-        _asm{
+        //Ассемблерная вставка
+        _asm {
             sub eax, eax;
             mov gameactive, eax;
             mov gamestarted, eax;
@@ -264,7 +271,6 @@ void ClickKeyboard(int key) {
         //ball_status = 0;
         balls[0] = 0;
         varnulls();
-        //
         balls_x[0] = d_x + d_w / 2;
         balls_y[0] = d_y - 8;
         startvels[0] = 0;
@@ -707,6 +713,7 @@ void movedeck() {
         }
     }
     else if (gamemenu == 2 && gameactive == 0) {
+        //balls_x[0] = d_x + d_w / 2;
         balls_x[0] = d_x + (d_w >> 1);
         balls_y[0] = d_y - ball_r / 2 - 8;
     }
