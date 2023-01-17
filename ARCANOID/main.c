@@ -101,12 +101,27 @@ void varnulls() {
     ball_status = 0; balls_count = 1;
     d_hits_left = 10; d_w = 105; d_h = 6;
     bonus_falling = 0;
-    for (int i = 1; i < 4; i++) {
+    //Ассемблерная вставка
+    _asm{   
+        mov     eax, 1
+        jmp     L2
+L3: 
+        mov     dword ptr bonus_status[eax*4],0
+        mov     dword ptr bonus_x[eax * 4], 0
+        mov     dword ptr bonus_y[eax * 4], 0
+        mov     dword ptr whichbonus[eax * 4], 0
+        inc     eax
+L2:
+        cmp     eax, 3
+        jle     L3
+    }
+    
+    /*for (int i = 1; i < 4; i++) {
         bonus_status[i] = 0;
         bonus_x[i] = 0;
         bonus_y[i] = 0;
         whichbonus[i] = 0;
-    }
+    }*/
 
     bricks_counter = 0;
     for (int i = 1; i <= rows; i++) {
